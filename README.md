@@ -1,1 +1,1 @@
-# DCapstone
+# Database Engineering Capstone Project
